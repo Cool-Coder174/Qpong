@@ -40,7 +40,7 @@ Before installing and running the game, ensure you have the following installed 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/pong-ai-game.git
+   git clone https://github.com/Cool-Coder174/Qpong.git
    cd pong-ai-game
    ```
 
@@ -71,7 +71,7 @@ Before installing and running the game, ensure you have the following installed 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/pong-ai-game.git
+   git clone https://github.com/Cool-Coder174/Qpong.git
    cd pong-ai-game
    ```
 
