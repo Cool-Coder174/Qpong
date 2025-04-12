@@ -1,0 +1,20 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/x64/ninja -G Ninja -S /Users/isaachernandez/CLionProjects/QPong -B /Users/isaachernandez/CLionProjects/QPong/cmake-build-debug
+CMake Error at /usr/local/lib/cmake/SFML/SFMLConfig.cmake:80 (message):
+  Unsupported SFML component: system
+Call Stack (most recent call first):
+  CMakeLists.txt:19 (find_package)
+
+
+CMake Error at CMakeLists.txt:19 (find_package):
+  Found package configuration file:
+
+    /usr/local/lib/cmake/SFML/SFMLConfig.cmake
+
+  but it set SFML_FOUND to FALSE so package "SFML" is considered to be NOT
+  FOUND.  Reason given by package:
+
+  Unsupported SFML component: system
+
+
+
+-- Configuring incomplete, errors occurred!

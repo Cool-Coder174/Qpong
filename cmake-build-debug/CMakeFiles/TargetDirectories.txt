@@ -1,0 +1,3 @@
+/Users/isaachernandez/CLionProjects/QPong/cmake-build-debug/CMakeFiles/QPong.dir
+/Users/isaachernandez/CLionProjects/QPong/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/isaachernandez/CLionProjects/QPong/cmake-build-debug/CMakeFiles/rebuild_cache.dir
